@@ -1,7 +1,5 @@
-<img src="https://media.giphy.com/media/cID9NShVKKjHs5ygCP/giphy.gif" width="550px">
-
 # :computer:Desarrollador Java Junior 👋
-
+<img src="https://media.giphy.com/media/cID9NShVKKjHs5ygCP/giphy.gif" width="550px">
 
 Soy Tecnólogo en Análisis y Desarrollo en Sistemas de Información, capaz de adaptarme frente a las
 diferentes solicitudes requeridas, solucionando problemas de acuerdo a los conocimientos
